@@ -1,4 +1,4 @@
-# countdown-timer
+# Countdown Timer
 
 ## Project setup
 ```
